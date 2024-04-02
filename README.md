@@ -1,0 +1,1 @@
+This project explores three different machine learning implementation models to find out which one works the best for predicting hair fall. The dataset is about various causes that can lead to hair fal.
